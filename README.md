@@ -53,7 +53,7 @@
 
 <hr>
 
-<h3> <strong>  $> python manage.py runserver </strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py runserver</pre></div>
 
 <hr>
 
