@@ -9,13 +9,8 @@
 
 <br>
 
-<hr>
-
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker-compose up --build</pre></div>
-
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/AmirHBana/Youtube-Application-Django-web-framework-Fullstack.git</pre></div>
 
-<hr>
 
 <br><br>
 
@@ -28,23 +23,25 @@
   after you activate your venv install python packages below in to your venv
 </p>
 
-<hr>
 
 <br>
 
-<h3> <strong> <hr>
-        $>  pip install django==4.2.8 <br> <hr>
-        $>  pip install django-ckeditor==6.7.1 <br> <hr>
-        $> pip install  redis-5.0.3 <br> <hr>
-        $>  pip install django-crispy-forms==1.4 <br> <hr>
-        $>  pip install djangocms-bootstrap4 <br> <hr>
-        $>  pip install pillow==10.2 <br> <hr>
-        $>  pip install crispy-bootstrap4==2024.1 <br> <hr>
-</strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django==4.2.9</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-ckeditor==6.7.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-ckeditor-5==0.1.6</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-crispy-forms==1.12.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-debug-toolbar==2.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-dotenv==1.4.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-environ==0.9.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-social-share==2.2.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-static-fontawesome==5.14.0.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-taggit==3.0.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install gunicorn==20.0.4</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install Pillow==9.1.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install psycopg2-binary==2.9.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-import-export</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-jazzmin==2.6.1</pre></div>
 
-<br>
-
-<hr>
 
 <br>
 
