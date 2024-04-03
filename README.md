@@ -13,7 +13,7 @@
 
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker-compose up --build</pre></div>
 
-<h3><strong> $> git clone https://github.com/AmirHBana/Youtube-Application-Django-web-framework-Fullstack.git </strong></h3>
+<h3><strong><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/AmirHBana/Youtube-Application-Django-web-framework-Fullstack.git</pre></div></strong></h3>
 
 <hr>
 
