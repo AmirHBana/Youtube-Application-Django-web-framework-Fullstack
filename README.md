@@ -53,6 +53,10 @@
 
 <hr>
 
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py makemigrations</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py migrate</pre></div>
+
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py runserver</pre></div>
 
 <hr>
